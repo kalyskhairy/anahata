@@ -379,7 +379,7 @@
                 <div class="col-md-12">
                     <div class="owl-carousel owl-theme">
                         <div class="item">
-                            <div class="position-re o-hidden"> <img src="img/restaurant/restaurant_1.jpg" alt="">
+                            <div class="position-re o-hidden"> <img src="img/news/1.jpg" alt="">
                             </div>
                             <div class="con"> <span class="category">
                                     <a href="news.html">Restaurant</a>
@@ -388,7 +388,7 @@
                             </div>
                         </div>
                         <div class="item">
-                            <div class="position-re o-hidden"> <img src="img/spa/spa_room_1.jpg" alt="">
+                            <div class="position-re o-hidden"> <img src="img/news/2.jpg" alt="">
                             </div>
                             <div class="con"> <span class="category">
                                     <a href="news.html">Spa</a>
