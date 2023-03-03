@@ -78,10 +78,10 @@
                     </div>
                 </div>
                 <div class="col col-md-3 animate-box" data-animate-effect="fadeInUp">
-                    <img src="img/restaurant/restaurant_1.jpg" alt="" class="mt-90 mb-30">
+                    <img src="img/swimming-pool.jpg" alt="" class="mt-90 mb-30">
                 </div>
                 <div class="col col-md-3 animate-box" data-animate-effect="fadeInUp">
-                    <img src="img/suite-room-premiere-private-pool/IMG_1.jpg" alt="">
+                    <img src="img/candlelit-dinner.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -168,7 +168,7 @@
         </div>
     </section>
     <!-- Promo Video -->
-    <section class="video-wrapper video section-padding bg-img bg-fixed" data-overlay-dark="3" data-background="img/slider/2.jpg">
+    <section class="video-wrapper video section-padding bg-img bg-fixed" data-overlay-dark="3" data-background="img/view-anahata-2.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 offset-md-2 text-center">
@@ -179,7 +179,7 @@
                 </div>
                 <div class="row">
                     <div class="text-center col-md-12">
-                        <a class="vid" href="https://youtu.be/7BGNAGahig8">
+                        <a class="vid" href="https://www.youtube.com/watch?v=I31eSg9M6ds">
                         <div class="vid-butn">
                             <span class="icon">
                                 <i class="ti-control-play"></i>
@@ -233,7 +233,7 @@
     </section>
     <!-- Testiominals -->
     <section class="testimonials">
-        <div class="background bg-img bg-fixed section-padding pb-0" data-background="img/slider/2.jpg" data-overlay-dark="3">
+        <div class="background bg-img bg-fixed section-padding pb-0" data-background="img/view-anahata-2.jpg" data-overlay-dark="3">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 offset-md-2">
