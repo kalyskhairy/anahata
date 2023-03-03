@@ -202,9 +202,9 @@
                     <div class="section-title">Others</div>
                 </div>
                 <div class="col-md-6 gallery-item">
-                    <a href="img/Garden.jpeg" title="" class="img-zoom">
+                    <a href="img/Garden.jpg" title="" class="img-zoom">
                         <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/Garden.jpeg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                            <div class="gallery-img"> <img src="img/Garden.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                         </div>
                     </a>
                 </div>

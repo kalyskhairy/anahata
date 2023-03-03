@@ -213,7 +213,7 @@
                         <span class="flaticon-car"></span>
                         <h5>Parking Space & Rent</h5>
                         <p>- Private Parking Area</p>
-                        <p>- Car & Motorcycle Rental</p>
+                        <p>- Car, Motorbike & Bike Rental</p>
                         <p>- Shuttle Service from & to Ubud Market</p>
                         <div class="facility-shape"> <span class="flaticon-car"></span> </div>
                     </div>
@@ -256,26 +256,6 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!-- <div class="item">
-                                    <span class="quote"><img src="img/quot.png" alt=""></span>
-                                    <p>Hotel dapibus asue metus the nec feusiate eraten miss hendreri net ve ante the lemon sanleo nectan feugiat erat hendrerit necuis ve ante otel inilla duiman at finibus viverra neca the sene on satien the miss drana inc fermen norttito sit space, mus nellentesque habitan.</p>
-                                    <div class="info">
-                                        <div class="author-img"> <img src="img/team/1.jpg" alt=""> </div>
-                                        <div class="cont"> <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
-                                            <h6>Nolan White</h6> <span>Guest review</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <span class="quote"><img src="img/quot.png" alt=""></span>
-                                    <p>Hotel dapibus asue metus the nec feusiate eraten miss hendreri net ve ante the lemon sanleo nectan feugiat erat hendrerit necuis ve ante otel inilla duiman at finibus viverra neca the sene on satien the miss drana inc fermen norttito sit space, mus nellentesque habitan.</p>
-                                    <div class="info">
-                                        <div class="author-img"> <img src="img/team/5.jpg" alt=""> </div>
-                                        <div class="cont"> <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
-                                            <h6>Olivia Martin</h6> <span>Guest review</span>
-                                        </div>
-                                    </div>
-                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -361,6 +341,42 @@
                 <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
                     <div class="img">
                         <a href=""><img src="img/swimming-pool.jpg" alt=""></a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
+                    <div class="img left">
+                        <a href=""><img src="img/river.jpeg" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-md-6 p-0 bg-cream valign animate-box" data-animate-effect="fadeInRight">
+                    <div class="content">
+                        <div class="cont text-left">
+                            <div class="info">
+                                <h6>Experiences</h6>
+                            </div>
+                            <h4>River</h4>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 bg-cream p-0 order2 valign animate-box" data-animate-effect="fadeInLeft">
+                    <div class="content">
+                        <div class="cont text-left">
+                            <div class="info">
+                                <h6>Experiences</h6>
+                            </div>
+                            <h4>Floating Breakfast</h4>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
+                    <div class="img">
+                        <a href=""><img src="img/floating-food-2.jpg" alt=""></a>
                     </div>
                 </div>
             </div>
