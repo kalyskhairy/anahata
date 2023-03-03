@@ -6,8 +6,8 @@
         <div class="owl-carousel owl-theme">
             <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
             <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/suite-room-private-room/IMG_4.jpg"></div>
-            <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/suite-room-premiere-private-pool/IMG_2.jpg"></div>
-            <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/suite-room-premiere-jungle-view/IMG_3.jpg"></div>
+            <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/suite-room-private-room/IMG_2.jpg"></div>
+            <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/suite-room-private-room/IMG_3.jpg"></div>
         </div>
         <!-- arrow down -->
         <div class="arrow bounce text-center">

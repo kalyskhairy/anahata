@@ -370,7 +370,7 @@
                                 <h6>Experiences</h6>
                             </div>
                             <h4>Floating Breakfast</h4>
-                            <p></p>
+                            <p>Enjoy the food dishes while soaking</p>
                         </div>
                     </div>
                 </div>
