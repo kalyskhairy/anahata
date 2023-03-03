@@ -18,24 +18,29 @@
             <div class="row mb-90">
                 <div class="col-md-6 mb-60">
                     <h3>{{ config('constants.hotelName') }}</h3>
-                    <p>Hotel ut nisl quam nestibulum ac quam nec odio elementum sceisue the aucan ligula. Orci varius natoque penatibus et magnis dis parturient monte nascete ridiculus mus nellentesque habitant morbine.</p>
+                    <p>
+                        If you can't find what you're looking for, don't hesitate to contact us. We are here to help you.
+                    </p>
                     <div class="reservations mb-30">
                         <div class="icon"><span class="flaticon-call"></span></div>
                         <div class="text">
-                            <p>Reservation</p> <a href="tel:08118748910">+628118748910</a>
+                            <p>Reservation</p> <a href="tel:0811442233">+62811 442 233</a> <br>
+                            <a href="tel:08118748910">+62811 8748 910</a>
                         </div>
                     </div>
                     <div class="reservations mb-30">
                         <div class="icon"><span class="flaticon-envelope"></span></div>
                         <div class="text">
-                            <p>Email Info</p> <a href="mailto:anahta@example.com">anahata@example.com</a>
+                            <p>Email Info</p> <a href="mailto:salesmanager@anahataresort.com">salesmanager@anahataresort.com</a> <br>
+                            <a href="mailto:salesexecutive@anahataresort.com">salesexecutive@anahataresort.com</a> <br>
+                            <a href="mailto:promo@anahataresort.com">promo@anahataresort.com</a>
                         </div>
                     </div>
                     <div class="reservations">
                         <div class="icon"><span class="flaticon-location-pin"></span></div>
                         <div class="text">
-                            <p>Address</p> Umah Anyar, Pejeng Kaja, Kec. Tampaksiring, Kabupaten Gianyar, Bali
-                            <br>Indonesia
+                            <p>Address</p> Br Umah Anyar, Pejeng Kaja, Kec. Tampak Siring, Gianyar, Bali
+                            <br>Po Box 1011, Bali, 80571 Ubud, Indonesia
                         </div>
                     </div>
                 </div>

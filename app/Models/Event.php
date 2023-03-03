@@ -8,7 +8,7 @@ class Event extends Model
 {
     private static $events = [
         [
-            'image' => 'img/restaurant/restaurant_night.jpg',
+            'image' => 'img/restaurant/restaurant-night.jpg',
             'title' => '4 (four) Days Exclusive Program, Getting Slimmer & Younger with MindSlim Program',
             'quote' => '4 DAYS EXCLUSIVE PROGRAM
             Bersiaplah Anda akan merasakan pengalaman yang luar biasa dalam hidup Anda di 4 Days Exclusive Program! Program ini diadakan hanya 2 kali dalam setahun di Ubud, Bali.',
@@ -34,7 +34,7 @@ class Event extends Model
             'category' => 'Training and Meeting'
         ],
         [
-            'image' => 'img/restaurant/restaurant_night.jpg',
+            'image' => 'img/restaurant/restaurant-night.jpg',
             'title' => "BALI NEW YEAR'S EVE YOGA RETREAT",
             'quote' => "Join us for a wonderful week of Yoga and healing in a peaceful and serene Balinese environment. This retreat is designed for guests to de-stress and rejuvenate your body, mind and soul. Feel yourself become physically stronger, increase flexibility and",
             'slug'  => 'bali-new-year-eve-yoga-retreat',

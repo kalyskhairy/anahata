@@ -54,9 +54,11 @@ $(function () {
         if (bodyScroll > 100) {
             navbar.addClass("nav-scroll");
             logo.attr('src', 'img/logo-anahata.png');
+            logo.css('filter', 'brightness(0.9) invert(0.7) sepia(1.5) hue-rotate(45deg) saturate(100%)');
         } else {
             navbar.removeClass("nav-scroll");
             logo.attr('src', 'img/logo-anahata.png');
+            logo.css('filter', 'none');
         }
     });
     

@@ -2,24 +2,12 @@
 <section class="clients">
         <div class="container">
             <div class="row">
-                <div class="col-md-7 owl-carousel owl-theme">
+                <div class="col-md-12 owl-carousel owl-theme">
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/1.png" alt=""></a>
+                        <a href="#0"><img src="img/clients/traveloka.svg" alt="" style="height:50px;width:150px;"></a>
                     </div>
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/2.png" alt=""></a>
-                    </div>
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/3.png" alt=""></a>
-                    </div>
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/4.png" alt=""></a>
-                    </div>
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/5.png" alt=""></a>
-                    </div>
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/6.png" alt=""></a>
+                        <a href="#0"><img src="img/clients/booking.png" alt="" style="height:50px;width:150px;"></a>
                     </div>
                 </div>
             </div>
@@ -52,10 +40,13 @@
                     <div class="col-md-4">
                         <div class="footer-column footer-contact">
                             <h3 class="footer-title">Contact</h3>
-                            <p class="footer-contact-text"> Umah Anyar, Pejeng Kaja, Kec. Tampaksiring, Kabupaten Gianyar, Bali<br>Indonesia</p>
+                            <p class="footer-contact-text"> Br Umah Anyar, Pejeng Kaja, Kec. Tampak Siring, Gianyar, Bali<br>Po Box 1011, Bali, 80571 Ubud, Indonesia</p>
                             <div class="footer-contact-info">
-                                <p class="footer-contact-phone"><span class="flaticon-call"></span>+628118748910</p>
-                                <p class="footer-contact-mail">anahata@example.com</p>
+                                <p class="footer-contact-phone"><span class="flaticon-call"></span>+62811 442 233</p>
+                                <p class="footer-contact-phone"><span class="flaticon-call"></span>+62811 8748 910</p>
+                                <p class="footer-contact-mail">salesmanager@anahataresort.com</p>
+                                <p class="footer-contact-mail">salesexecutive@anahataresort.com</p>
+                                <p class="footer-contact-mail">promo@anahataresort.com</p>
                             </div>
                             <div class="footer-about-social-list">
                                 <a href="#"><i class="ti-instagram"></i></a>
@@ -74,7 +65,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="footer-bottom-inner">
-                            <p class="footer-bottom-copy-right">© Copyright 2022 by <a href="#">DuruThemes.com</a></p>
+                            <p class="footer-bottom-copy-right">© Copyright 2022 by Anahata</p>
                         </div>
                     </div>
                 </div>

@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\ArticleController;
 use App\Http\Controllers\EventController;
+use App\Models\Article;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -17,7 +18,9 @@ use Illuminate\Support\Facades\Route;
 
 // Home
 Route::get('/', function () {
-    return view('welcome');
+    return view('welcome', [
+        'articles' => Article::getAll()
+    ]);
 });
 
 // About

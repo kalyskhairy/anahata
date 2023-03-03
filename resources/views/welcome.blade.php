@@ -97,9 +97,9 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/suite-room-private-room/IMG_4.jpg" alt=""> </div> <span class="category"><a href="/contact">Book</a></span>
+                        <div class="position-re o-hidden"> <img src="img/suite-room-private-room/IMG_4.jpg" alt="" style="height:250px;"> </div> <span class="category"><a href="/contact">Book</a></span>
                         <div class="con">
-                            <h6>150$ / Night</h6>
+                            <h6>3 Days 2 Night</h6>
                             <h5>Honeymoon Packages </h5>
                             <div class="line"></div>
                             <div class="row facilities">
@@ -120,9 +120,9 @@
                 </div>
                 <div class="col-md-4">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/yoga-barn.jpeg" alt=""> </div> <span class="category"><a href="/contact">Book</a></span>
+                        <div class="position-re o-hidden"> <img src="img/yoga-barn.jpeg" alt="" style="height:250px;"> </div> <span class="category"><a href="/contact">Book</a></span>
                         <div class="con">
-                            <h6>200$ / Night</h6>
+                            <h6>5 Night</h6>
                             <h5>Yoga</h5>
                             <div class="line"></div>
                             <div class="row facilities">
@@ -143,9 +143,9 @@
                 </div>
                 <div class="col-md-4">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/spa/spa_room_1.jpg" alt=""> </div> <span class="category"><a href="/contact">Book</a></span>
+                        <div class="position-re o-hidden"> <img src="img/spa/spa_room_1.jpg" alt="" style="height:250px;"> </div> <span class="category"><a href="/contact">Book</a></span>
                         <div class="con">
-                            <h6>250$ / Night</h6>
+                            <h6>3 Days 2 Night</h6>
                             <h5>Spa</h5>
                             <div class="line"></div>
                             <div class="row facilities">
@@ -289,7 +289,7 @@
             <div class="row">
                 <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
                     <div class="img left">
-                        <a href="restaurant.html"><img src="img/restaurant/restaurant_2.jpg" alt=""></a>
+                        <a href=""><img src="img/restaurant/restaurant_2.jpg" alt=""></a>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 bg-cream valign animate-box" data-animate-effect="fadeInRight">
@@ -302,7 +302,7 @@
                             <p>
                                 The Restaurant & Bar is Open for breakfast, lunch and dinner. The menu caters for international guests, offering traditional Balinese, Asian and Western cuisines as well as vegetarian food.
                             </p>
-                            <div class="butn-dark"> <a href="restaurant.html"><span>Learn More</span></a> </div>
+                            <!-- <div class="butn-dark"> <a href=""><span>Learn More</span></a> </div> -->
                         </div>
                     </div>
                 </div>
@@ -316,20 +316,20 @@
                             </div>
                             <h4>Spa Center</h4>
                             <p>Located half way down to Petanu River, our spa offers a complete range of massages and treatments. You can request your spa and treatment to be done in your villas or our Tree Spa House</p>
-                            <div class="butn-dark"> <a href="spa-wellness.html"><span>Learn More</span></a> </div>
+                            <!-- <div class="butn-dark"> <a href=""><span>Learn More</span></a> </div> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
                     <div class="img">
-                        <a href="spa-wellness.html"><img src="img/spa/spa_room_1.jpg" alt=""></a>
+                        <a href=""><img src="img/spa/spa_room_1.jpg" alt=""></a>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
                     <div class="img left">
-                        <a href="spa-wellness.html"><img src="img/Gym.jpg" alt=""></a>
+                        <a href=""><img src="img/Gym.jpg" alt=""></a>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 bg-cream valign animate-box" data-animate-effect="fadeInRight">
@@ -340,7 +340,7 @@
                             </div>
                             <h4>Fitness Center</h4>
                             <p>A mini gym for treadmill, cycling and weight lifting.</p>
-                            <div class="butn-dark"> <a href="spa-wellness.html"><span>Learn More</span></a> </div>
+                            <!-- <div class="butn-dark"> <a href=""><span>Learn More</span></a> </div> -->
                         </div>
                     </div>
                 </div>
@@ -354,13 +354,13 @@
                             </div>
                             <h4>Swimming Pool</h4>
                             <p>Our main swimming pool is overlooking the riverbank complete with changing room, pool bar and Jacuzzi.</p>
-                            <div class="butn-dark"> <a href="spa-wellness.html"><span>Learn More</span></a> </div>
+                            <!-- <div class="butn-dark"> <a href=""><span>Learn More</span></a> </div> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
                     <div class="img">
-                        <a href="spa-wellness.html"><img src="img/swimming-pool.jpg" alt=""></a>
+                        <a href=""><img src="img/swimming-pool.jpg" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -378,64 +378,18 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="owl-carousel owl-theme">
+                        @foreach($articles as $article)
                         <div class="item">
-                            <div class="position-re o-hidden"> <img src="img/news/1.jpg" alt="">
-                            </div>
-                            <div class="con"> <span class="category">
-                                    <a href="news.html">Restaurant</a>
-                                </span>
-                                <h5><a href="post.html">Historic restaurant renovated</a></h5>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="img/news/2.jpg" alt="">
-                            </div>
-                            <div class="con"> <span class="category">
-                                    <a href="news.html">Spa</a>
-                                </span>
-                                <h5><a href="post.html">Benefits of Spa Treatments</a></h5>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="img/news/3.jpg" alt="">
-                            </div>
-                            <div class="con"> <span class="category">
-                                    <a href="news.html">Bathrooms</a>
-                                </span>
-                                <h5><a href="post.html">Hotel Bathroom Collections</a></h5>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="img/news/4.jpg" alt="">
+                            <div class="position-re o-hidden"> <img src="{{ $article['image'] }}" alt="" style="height:270px;">
                             </div>
                             <div class="con"> 
                                 <span class="category">
-                                    <a href="news.html">Health</a>
+                                    <a href="{{ url('/article-detail?title=' . $article['slug']) }}" style="font-size:10px;">{{$article['slug']}}</a>
                                 </span>
-                                <h5><a href="post.html">Weight Loss with Fitness Health Club</a></h5>
+                                <h5><a href="{{ url('/article-detail?title=' . $article['slug']) }}">{{$article['title']}}</a></h5>
                             </div>
                         </div>
-                        
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="img/news/6.jpg" alt="">
-                            </div>
-                            <div class="con"> <span class="category">
-                                    <a href="news.html">Design</a>
-                                </span>
-                                <h5><a href="post.html">Retro Lighting Design in The Hotels</a></h5>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="img/news/5.jpg" alt="">
-                            </div>
-                            <div class="con"> <span class="category">
-                                    <a href="news.html">Health</a>
-                                </span>
-                                <h5><a href="post.html">Benefits of Swimming for Your Health</a></h5>
-                            </div>
-                        </div>
-                        
-                        
+                        @endforeach
                     </div>
                 </div>
             </div>

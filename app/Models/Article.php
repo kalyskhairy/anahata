@@ -33,7 +33,7 @@ class Article extends Model
             'content' => "Stay in Ubud a few days and you quickly find it's the place to do leisurely activities nearby our resort. You can venture out to explore the place of interests such as Monkey Forest, Pura Tirta Empul which is a holy bathing place since the 10th century, Antonio Blanco Museum, Bali Safari & Marine Park, Balinese Dance Performance at Puri Ubud. Otherwise, along the way to Ubud Market, the streets are lined with galleries, art shops and boutiques. There's much more some of the famous landmarks which you can travel around. Special service from Anahata Villas & Spa Resort, we offer free shuttle Ubud Market based on schedule every day. Thus, it will complete your truly holiday."
         ],
         [
-            'image' => 'img/restaurant/restaurant_night.jpg',
+            'image' => 'img/restaurant/restaurant-night.jpg',
             'title' => 'Anahata Villa & Spa Resort',
             'quote' => 'Anahata Villa & Spa Resort bisa jadi sanctuary Anda',
             'slug'  => 'anahata-villa-spa-resort',
@@ -46,7 +46,7 @@ class Article extends Model
             '
         ],
         [
-            'image' => 'img/news/2.jpg',
+            'image' => 'img/restaurant/restaurant-night.jpg',
             'title' => 'Anahata Villas & Spa Resor',
             'quote' => 'Bersenang-senang dan bersantai di Bali, merupakan tujuan utama bagi wisatawan yang berkunjung ke Bali. Banyak pilihan kegiatan bersantai dan menghibur di luar ruangan yang menjadi pilihan. Pilihan kegiatan ini bergantung pada usia, karena beberapa dari kegiatan tersebut memerlukan kesiapan fisik, seperti bersepeda dan berkuda.
             Lingkungan alam Ubud Bali, menyajikan keindahan dan keunikan yang menarik untuk dinikmati ditambah lagi dengan udaranya yang bersih dan sejuk. Bagi kaum turis dan keluarganya yang biasanya datang dari kota besar suasana seperti yang disuguhkan alam Ubud ini sangat didambakan.',
@@ -100,7 +100,7 @@ class Article extends Model
             '
         ],
         [
-            'image' => 'img/news/1.jpg',
+            'image' => 'img/restaurant/restaurant-night.jpg',
             'title' => 'Anahata Villas & Spa Resort: Discovering the Lost Paradise in Ubud Bali',
             'quote' => '',
             'content' => '
