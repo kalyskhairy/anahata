@@ -7,7 +7,7 @@
                         <a href="#0"><img src="img/clients/traveloka.svg" alt="" style="height:50px;width:150px;"></a>
                     </div>
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/booking.png" alt="" style="height:50px;width:150px;"></a>
+                        <a href="https://www.booking.com/hotel/id/anahata-villas-and-spa-resort.id.html" target="_blank"><img src="img/clients/booking.png" alt="" style="height:50px;width:150px;"></a>
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="footer-bottom-inner">
-                            <p class="footer-bottom-copy-right">© Copyright 2022 by Anahata</p>
+                            <p class="footer-bottom-copy-right">© Copyright 2023 by Anahata</p>
                         </div>
                     </div>
                 </div>

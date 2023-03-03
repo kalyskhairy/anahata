@@ -17,9 +17,8 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/suite-room-jungle-view/IMG_4.jpg" alt=""> </div> <span class="category"><a href="rooms2.html">Book</a></span>
+                        <div class="position-re o-hidden"> <img src="img/suite-room-jungle-view/IMG_4.jpg" alt=""> </div> <span class="category"><a href="/contact">Book</a></span>
                         <div class="con">
-                            <h6><a href="/suite-room-jungle-view">300$ / Night</a></h6>
                             <h5><a href="/suite-room-jungle-view">Suite Room Jungle View</a></h5>
                             <div class="line"></div>
                             <div class="row facilities">
@@ -40,9 +39,8 @@
                 </div>
                 <div class="col-md-6">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/suite-room-private-room/IMG_4.jpg" alt=""> </div> <span class="category"><a href="rooms2.html">Book</a></span>
+                        <div class="position-re o-hidden"> <img src="img/suite-room-private-room/IMG_4.jpg" alt=""> </div> <span class="category"><a href="/contact">Book</a></span>
                         <div class="con">
-                            <h6><a href="/suite-room-private-pool">300$ / Night</a></h6>
                             <h5><a href="/suite-room-private-pool">Suite Room Private Pool</a></h5>
                             <div class="line"></div>
                             <div class="row facilities">
@@ -63,9 +61,8 @@
                 </div>
                 <div class="col-md-6">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/suite-room-premiere-jungle-view/IMG_3.jpg" alt=""> </div> <span class="category"><a href="rooms2.html">Book</a></span>
+                        <div class="position-re o-hidden"> <img src="img/suite-room-premiere-jungle-view/IMG_3.jpg" alt=""> </div> <span class="category"><a href="/contact">Book</a></span>
                         <div class="con">
-                            <h6><a href="/suite-room-premiere-jungle-view">300$ / Night</a></h6>
                             <h5><a href="/suite-room-premiere-jungle-view">Suite Room Premiere Jungle View</a></h5>
                             <div class="line"></div>
                             <div class="row facilities">
@@ -86,9 +83,8 @@
                 </div>
                 <div class="col-md-6">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/suite-room-premiere-private-pool/IMG_4.jpg" alt=""> </div> <span class="category"><a href="rooms2.html">Book</a></span>
+                        <div class="position-re o-hidden"> <img src="img/suite-room-premiere-private-pool/IMG_4.jpg" alt=""> </div> <span class="category"><a href="/contact">Book</a></span>
                         <div class="con">
-                            <h6><a href="/suite-room-premiere-private-pool">150$ / Night</a></h6>
                             <h5><a href="/suite-room-premiere-private-pool">Suite Room Premiere Private Pool</a></h5>
                             <div class="line"></div>
                             <div class="row facilities">

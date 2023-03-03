@@ -17,8 +17,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="section-subtitle">Images</div>
-                    <div class="section-title">Image Gallery</div>
+                    <div class="section-subtitle">Suite Room</div>
+                    <div class="section-title">Jungle View</div>
                 </div>
                 <!-- 3 columns -->
                 <div class="col-md-4 gallery-item">
@@ -57,140 +57,16 @@
                         </div>
                     </a>
                 </div>
-                <!-- 3 columns -->
-                <div class="col-md-4 gallery-item">
-                    <a href="img/suite-room-jungle-view/IMG_6.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-jungle-view/IMG_6.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
+            </div>
+        </div>
+    </section>
+    <section class="rooms1 section-padding bg-cream">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-subtitle">Suite Room</div>
+                    <div class="section-title">Private Pool</div>
                 </div>
-                <div class="col-md-4 gallery-item">
-                    <a href="img/suite-room-jungle-view/IMG_7.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-jungle-view/IMG_7.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4 gallery-item">
-                    <a href="img/suite-room-premiere-jungle-view/IMG_1.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-jungle-view/IMG_1.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- 2 columns -->
-                <div class="col-md-6 gallery-item">
-                    <a href="img/suite-room-premiere-jungle-view/IMG_2.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-jungle-view/IMG_2.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-6 gallery-item">
-                    <a href="img/suite-room-premiere-jungle-view/IMG_3.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-jungle-view/IMG_3.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- 3 columns -->
-                <div class="col-md-4 gallery-item">
-                    <a href="img/suite-room-premiere-jungle-view/IMG_4.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-jungle-view/IMG_4.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4 gallery-item">
-                    <a href="img/suite-room-premiere-jungle-view/IMG_5.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-jungle-view/IMG_5.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4 gallery-item">
-                    <a href="img/suite-room-premiere-jungle-view/IMG_6.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-jungle-view/IMG_6.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- 2 columns -->
-                <div class="col-md-6 gallery-item">
-                    <a href="img/suite-room-premiere-jungle-view/IMG_7.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-jungle-view/IMG_7.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-6 gallery-item">
-                    <a href="img/suite-room-premiere-private-pool/IMG_1.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-private-pool/IMG_1.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- 3 columns -->
-                <div class="col-md-4 gallery-item">
-                    <a href="img/suite-room-premiere-private-pool/IMG_2.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-private-pool/IMG_2.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4 gallery-item">
-                    <a href="img/suite-room-premiere-private-pool/IMG_3.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-private-pool/IMG_3.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4 gallery-item">
-                    <a href="img/suite-room-premiere-private-pool/IMG_4.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-private-pool/IMG_4.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- 2 columns -->
-                <div class="col-md-6 gallery-item">
-                    <a href="img/suite-room-premiere-private-pool/IMG_5.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-private-pool/IMG_5.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-6 gallery-item">
-                    <a href="img/suite-room-premiere-private-pool/IMG_6.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-private-pool/IMG_6.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- 3 columns -->
-                <div class="col-md-4 gallery-item">
-                    <a href="img/suite-room-premiere-private-pool/IMG_7.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-private-pool/IMG_7.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4 gallery-item">
-                    <a href="img/suite-room-premiere-private-pool/IMG_8.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-premiere-private-pool/IMG_8.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4 gallery-item">
-                    <a href="img/suite-room-private-room/IMG_1.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-private-room/IMG_1.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- 2 columns -->
                 <div class="col-md-6 gallery-item">
                     <a href="img/suite-room-private-room/IMG_2.jpg" title="" class="img-zoom">
                         <div class="gallery-box">
@@ -205,7 +81,6 @@
                         </div>
                     </a>
                 </div>
-                <!-- 3 columns -->
                 <div class="col-md-4 gallery-item">
                     <a href="img/suite-room-private-room/IMG_4.jpg" title="" class="img-zoom">
                         <div class="gallery-box">
@@ -227,7 +102,105 @@
                         </div>
                     </a>
                 </div>
-                <!-- 2 columns -->
+            </div>
+        </div>
+    </section>
+    <section class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-subtitle">Suite Room</div>
+                    <div class="section-title">Premiere Jungle View</div>
+                </div>
+                <div class="col-md-6 gallery-item">
+                    <a href="img/suite-room-premiere-jungle-view/IMG_2.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/suite-room-premiere-jungle-view/IMG_2.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 gallery-item">
+                    <a href="img/suite-room-premiere-jungle-view/IMG_3.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/suite-room-premiere-jungle-view/IMG_3.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="img/suite-room-premiere-jungle-view/IMG_4.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/suite-room-premiere-jungle-view/IMG_4.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="img/suite-room-premiere-jungle-view/IMG_5.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/suite-room-premiere-jungle-view/IMG_5.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="img/suite-room-premiere-jungle-view/IMG_6.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/suite-room-premiere-jungle-view/IMG_6.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section-padding bg-cream">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-subtitle">Suite Room</div>
+                    <div class="section-title">Premiere Private Pool</div>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="img/suite-room-premiere-private-pool/IMG_2.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/suite-room-premiere-private-pool/IMG_2.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="img/suite-room-premiere-private-pool/IMG_3.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/suite-room-premiere-private-pool/IMG_3.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="img/suite-room-premiere-private-pool/IMG_4.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/suite-room-premiere-private-pool/IMG_4.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 gallery-item">
+                    <a href="img/suite-room-premiere-private-pool/IMG_5.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/suite-room-premiere-private-pool/IMG_5.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 gallery-item">
+                    <a href="img/suite-room-premiere-private-pool/IMG_6.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/suite-room-premiere-private-pool/IMG_6.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title">Others</div>
+                </div>
                 <div class="col-md-6 gallery-item">
                     <a href="img/Garden.jpeg" title="" class="img-zoom">
                         <div class="gallery-box">
@@ -242,7 +215,6 @@
                         </div>
                     </a>
                 </div>
-                <!-- 3 columns -->
                 <div class="col-md-4 gallery-item">
                     <a href="img/view-1.jpg" title="" class="img-zoom">
                         <div class="gallery-box">
