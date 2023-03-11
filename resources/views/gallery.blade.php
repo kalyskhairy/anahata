@@ -82,9 +82,9 @@
                     </a>
                 </div>
                 <div class="col-md-4 gallery-item">
-                    <a href="img/suite-room-private-room/IMG_4.jpg" title="" class="img-zoom">
+                    <a href="img/suite-room-private-room/private-pool.jpg" title="" class="img-zoom">
                         <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/suite-room-private-room/IMG_4.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                            <div class="gallery-img"> <img src="img/suite-room-private-room/private-pool.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                         </div>
                     </a>
                 </div>
@@ -199,12 +199,57 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
+                    <div class="section-subtitle">Suite Room</div>
+                    <div class="section-title">Honeymoon</div>
+                </div>
+                <div class="col-md-6 gallery-item">
+                    <a href="img/honeymoon/1.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/honeymoon/2.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 gallery-item">
+                    <a href="img/honeymoon/2.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/honeymoon/3.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 gallery-item">
+                    <a href="img/honeymoon/3.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/honeymoon/4.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 gallery-item">
+                    <a href="img/honeymoon/4.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/honeymoon/7.jpeg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 gallery-item">
+                    <a href="img/honeymoon/5.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="img/honeymoon/6.jpeg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
                     <div class="section-title">Others</div>
                 </div>
                 <div class="col-md-6 gallery-item">
-                    <a href="img/Garden.jpg" title="" class="img-zoom">
+                    <a href="img/Garden.jpeg" title="" class="img-zoom">
                         <div class="gallery-box">
-                            <div class="gallery-img"> <img src="img/Garden.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                            <div class="gallery-img"> <img src="img/Garden.jpeg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                         </div>
                     </a>
                 </div>
