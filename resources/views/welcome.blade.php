@@ -4,26 +4,7 @@
     <header class="header slider-fade">
         <div class="owl-carousel owl-theme">
             <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
-            <div class="text-center item bg-img" data-overlay-dark="2" data-background="img/view-anahata-1.jpg">
-                <div class="v-middle caption">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-10 offset-md-1">
-                                <span>
-                                    <i class="star-rating"></i>
-                                    <i class="star-rating"></i>
-                                    <i class="star-rating"></i>
-                                    <i class="star-rating"></i>
-                                    <i class="star-rating"></i>
-                                </span>
-                                <h4>NATURAL RETREAT</h4>
-                                <h1>FOR MIND, BODY AND SOUL</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="text-center item bg-img" data-overlay-dark="2" data-background="img/view-anahata-2.jpg">
+            <div class="text-center item bg-img" data-overlay-dark="2" data-background="img/view-anahata-0.jpg">
                 <div class="v-middle caption">
                     <div class="container">
                         <div class="row">
@@ -42,7 +23,65 @@
                     </div>
                 </div>
             </div>
+            <div class="text-center item bg-img" data-overlay-dark="2" data-background="img/anahata-view2.jpg">
+                <div class="v-middle caption">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-10 offset-md-1">
+                                <span>
+                                    <i class="star-rating"></i>
+                                    <i class="star-rating"></i>
+                                    <i class="star-rating"></i>
+                                    <i class="star-rating"></i>
+                                    <i class="star-rating"></i>
+                                </span>
+                                <h4>NATURAL RETREAT</h4>
+                                <h1>FOR MIND, BODY AND SOUL</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center item bg-img" data-overlay-dark="2" data-background="img/anahata-view3.jpeg">
+                <div class="v-middle caption">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-10 offset-md-1">
+                                <span>
+                                    <i class="star-rating"></i>
+                                    <i class="star-rating"></i>
+                                    <i class="star-rating"></i>
+                                    <i class="star-rating"></i>
+                                    <i class="star-rating"></i>
+                                </span>
+                                <h4>A BEAUTIFUL RESORT</h4>
+                                <h1>IN THE HEART OF NATURE IN UBUD BALI</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center item bg-img" data-overlay-dark="2" data-background="img/anahata-view4.jpg">
+                <div class="v-middle caption">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-10 offset-md-1">
+                                <span>
+                                    <i class="star-rating"></i>
+                                    <i class="star-rating"></i>
+                                    <i class="star-rating"></i>
+                                    <i class="star-rating"></i>
+                                    <i class="star-rating"></i>
+                                </span>
+                                <h4>NATURAL RETREAT</h4>
+                                <h1>FOR MIND, BODY AND SOUL</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
+        
         <!-- slider reservation -->
         <div class="reservation">
             <a href="tel:8551004444">
@@ -97,7 +136,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/suite-room-private-room/IMG_4.jpg" alt="" style="height:250px;"> </div> <span class="category"><a href="/contact">Book</a></span>
+                        <div class="position-re o-hidden"> <img src="img/honeymoon/4.jpg" alt="" style="height:250px;"> </div> <span class="category"><a href="/contact">Book</a></span>
                         <div class="con">
                             <h6>3 Days 2 Night</h6>
                             <h5>Honeymoon Packages </h5>
@@ -179,7 +218,7 @@
                 </div>
                 <div class="row">
                     <div class="text-center col-md-12">
-                        <a class="vid" href="https://www.youtube.com/watch?v=I31eSg9M6ds">
+                        <a class="vid" href="https://www.youtube.com/watch?v=iGlIUzODXGU">
                         <div class="vid-butn">
                             <span class="icon">
                                 <i class="ti-control-play"></i>
@@ -256,6 +295,26 @@
                                         </div>
                                     </div>
                                 </div>
+                                <!-- <div class="item">
+                                    <span class="quote"><img src="img/quot.png" alt=""></span>
+                                    <p>Hotel dapibus asue metus the nec feusiate eraten miss hendreri net ve ante the lemon sanleo nectan feugiat erat hendrerit necuis ve ante otel inilla duiman at finibus viverra neca the sene on satien the miss drana inc fermen norttito sit space, mus nellentesque habitan.</p>
+                                    <div class="info">
+                                        <div class="author-img"> <img src="img/team/1.jpg" alt=""> </div>
+                                        <div class="cont"> <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
+                                            <h6>Nolan White</h6> <span>Guest review</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <span class="quote"><img src="img/quot.png" alt=""></span>
+                                    <p>Hotel dapibus asue metus the nec feusiate eraten miss hendreri net ve ante the lemon sanleo nectan feugiat erat hendrerit necuis ve ante otel inilla duiman at finibus viverra neca the sene on satien the miss drana inc fermen norttito sit space, mus nellentesque habitan.</p>
+                                    <div class="info">
+                                        <div class="author-img"> <img src="img/team/5.jpg" alt=""> </div>
+                                        <div class="cont"> <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
+                                            <h6>Olivia Martin</h6> <span>Guest review</span>
+                                        </div>
+                                    </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -387,7 +446,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="section-subtitle"><span>Hotel Blog</span></div>
+                    <div class="section-subtitle"><span>Blog</span></div>
                     <div class="section-title"><span>Our News</span></div>
                 </div>
             </div>

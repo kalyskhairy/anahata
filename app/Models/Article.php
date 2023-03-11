@@ -8,7 +8,7 @@ class Article extends Model
 {
     private static $articles = [
         [
-            'image' => 'img/restaurant/restaurant_2.jpg',
+            'image' => 'img/news/A-Luxury-in-the-Heart-of-Nature.jpg',
             'title' => 'A Luxury in the Heart of Nature',
             'quote' => 'In the island of the gods, Bali and in the heart of its cultural center, Ubud, lays Anahata Villas & Spa Resort. 
             Anahata is a boutique resort consisting of 12 villas located right at Petanu river in the hill surrounded by lucious tropical rain forest. It was set up with a vision to be an natural retreat for mind, body and soul.',
@@ -26,14 +26,14 @@ class Article extends Model
             '
         ],
         [
-            'image' => 'img/restaurant/restaurant_1.jpg',
+            'image' => 'img/news/A-Trully-Holiday-Escape-for-Family.jpg',
             'title' => 'A Trully Holiday Escape For Familly',
             'quote' => "Stay in Ubud a few days and you quickly find it's the place to do leisurely activities nearby our resort. You can venture out to explore the place of interests such as Monkey Forest, Pura Tirta Empul which is a holy bathing place since the 10th century, Antonio Blanco Museum, Bali Safari & Marine Park, Balinese Dance Performance at Puri Ubud. Otherwise, along the way to Ubud Market, the streets are lined with galleries, art shops and boutiques. There's much more some of the famous landmarks which you can travel around. Special service from Anahata Villas & Spa Resort, we offer free shuttle Ubud Market based on schedule every day. Thus, it will complete your truly holiday.",
             'slug'  => 'a-trully-holiday-escape-for-family',
             'content' => "Stay in Ubud a few days and you quickly find it's the place to do leisurely activities nearby our resort. You can venture out to explore the place of interests such as Monkey Forest, Pura Tirta Empul which is a holy bathing place since the 10th century, Antonio Blanco Museum, Bali Safari & Marine Park, Balinese Dance Performance at Puri Ubud. Otherwise, along the way to Ubud Market, the streets are lined with galleries, art shops and boutiques. There's much more some of the famous landmarks which you can travel around. Special service from Anahata Villas & Spa Resort, we offer free shuttle Ubud Market based on schedule every day. Thus, it will complete your truly holiday."
         ],
         [
-            'image' => 'img/restaurant/restaurant-night.jpg',
+            'image' => 'img/news/anahata-villa-&-spa-resort-2.png',
             'title' => 'Anahata Villa & Spa Resort',
             'quote' => 'Anahata Villa & Spa Resort bisa jadi sanctuary Anda',
             'slug'  => 'anahata-villa-spa-resort',
@@ -46,8 +46,8 @@ class Article extends Model
             '
         ],
         [
-            'image' => 'img/restaurant/restaurant-night.jpg',
-            'title' => 'Anahata Villas & Spa Resor',
+            'image' => 'img/news/Anahata-Villa-&-Spa-Resort.jpg',
+            'title' => 'Anahata Villas & Spa Resort',
             'quote' => 'Bersenang-senang dan bersantai di Bali, merupakan tujuan utama bagi wisatawan yang berkunjung ke Bali. Banyak pilihan kegiatan bersantai dan menghibur di luar ruangan yang menjadi pilihan. Pilihan kegiatan ini bergantung pada usia, karena beberapa dari kegiatan tersebut memerlukan kesiapan fisik, seperti bersepeda dan berkuda.
             Lingkungan alam Ubud Bali, menyajikan keindahan dan keunikan yang menarik untuk dinikmati ditambah lagi dengan udaranya yang bersih dan sejuk. Bagi kaum turis dan keluarganya yang biasanya datang dari kota besar suasana seperti yang disuguhkan alam Ubud ini sangat didambakan.',
             'slug'  => 'anahata-villa-spa-resort-2',
@@ -100,7 +100,7 @@ class Article extends Model
             '
         ],
         [
-            'image' => 'img/restaurant/restaurant-night.jpg',
+            'image' => 'img/news/Anahata-Villa-&-Spa-Resort-1.jpg',
             'title' => 'Anahata Villas & Spa Resort: Discovering the Lost Paradise in Ubud Bali',
             'quote' => '',
             'content' => '
@@ -139,7 +139,7 @@ class Article extends Model
             'slug' => 'discovering-the-lost-paradise'
         ],
         [
-            'image' => 'img/spa/spa_room_1.jpg',
+            'image' => 'img/news/Bali-High.jpg',
             'title' => "Bali High",
             'quote' =>  "Despite being well-trodden by tourist, Bali can still surprise the holiday-maker who takes the road less travelled. There are places deep in the pastoral heart of Bali, away from the camera-toting crowds of Kuta, Legian and ubud, that provide a spiritual respite and a deep communion with nature. Such places have an energy that artists and writers seek, to find inspiration for their work.",
             'slug' => "bali-high",
@@ -180,7 +180,7 @@ class Article extends Model
             '  
         ],
         [
-            'image' => 'img/spa/spa_room_1.jpg',
+            'image' => 'img/news/Hening-di-Anahata-Spa.jpg',
             'title' => "Hening di Anahata Spa",
             'quote' => "Alam yang hening, wangi rempah, serta suara air, menyatu menciptakan sebuah 'sensasi' indah di spa treatment.
             Semburat cahaya matahari dari balik tebing-tebing bebatuan curam, yang ditumbuhi lumut-lumut, pepohonan berdaun lebat saling bergelayut, serta petak-petak sawah yang berundak-undak, menjadi identik dengan sebuah desa bernama Ubud. Lekukan anak sungai yang seakan bersembunyi di antara tebing, mengalir tenang, bening mericik tersandung batu-batu kali Sungai Petanu. Sungai 'milik' masyarakat Ubud.",

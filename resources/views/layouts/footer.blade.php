@@ -4,10 +4,24 @@
             <div class="row">
                 <div class="col-md-12 owl-carousel owl-theme">
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/traveloka.svg" alt="" style="height:50px;width:150px;"></a>
+                        <a href="https://www.traveloka.com/en-id/hotel/indonesia/anahata-villas-and-spa-resort-1000000468050" target="blank">
+                            <img src="img/clients/traveloka.svg" alt="" style="height:50px;">
+                        </a>
                     </div>
                     <div class="clients-logo">
-                        <a href="https://www.booking.com/hotel/id/anahata-villas-and-spa-resort.id.html" target="_blank"><img src="img/clients/booking.png" alt="" style="height:50px;width:150px;"></a>
+                        <a href="https://www.booking.com/hotel/id/anahata-villas-and-spa-resort.id.html" target="blank">
+                            <img src="img/clients/booking.png" alt="" style="height:38px;">
+                        </a>
+                    </div>
+                    <div class="clients-logo">
+                        <a href="https://www.tiket.com/hotel/indonesia/anahata-villa-and-spa-resort-108001534490286428" target="blank">
+                            <img src="img/clients/tiket.png" alt="" style="height:43px;">
+                        </a>
+                    </div>
+                    <div class="clients-logo">
+                        <a href="https://www.agoda.com/anahata-villas-spa-resort/hotel/bali-id.html" target="blank">
+                            <img src="img/clients/agoda.svg" alt="" style="height:50px;">
+                        </a>
                     </div>
                 </div>
             </div>
@@ -42,18 +56,15 @@
                             <h3 class="footer-title">Contact</h3>
                             <p class="footer-contact-text"> Br Umah Anyar, Pejeng Kaja, Kec. Tampak Siring, Gianyar, Bali<br>Po Box 1011, Bali, 80571 Ubud, Indonesia</p>
                             <div class="footer-contact-info">
-                                <p class="footer-contact-phone"><span class="flaticon-call"></span>+62811 442 233</p>
                                 <p class="footer-contact-phone"><span class="flaticon-call"></span>+62811 8748 910</p>
                                 <p class="footer-contact-mail">salesmanager@anahataresort.com</p>
                                 <p class="footer-contact-mail">salesexecutive@anahataresort.com</p>
-                                <p class="footer-contact-mail">promo@anahataresort.com</p>
                             </div>
                             <div class="footer-about-social-list">
-                                <a href="#"><i class="ti-instagram"></i></a>
-                                <a href="#"><i class="ti-twitter"></i></a>
-                                <a href="#"><i class="ti-youtube"></i></a>
-                                <a href="#"><i class="ti-facebook"></i></a>
-                                <a href="#"><i class="ti-pinterest"></i></a>
+                                <a href="https://www.instagram.com/anahatavilla/" target="blank"><i class="ti-instagram"></i></a>
+                                <a href="https://twitter.com/anahatavilla?lang=id" target="blank"><i class="ti-twitter"></i></a>
+                                <a href="https://www.youtube.com/@AnahataVilla/videos" target="blank"><i class="ti-youtube"></i></a>
+                                <a href="https://www.facebook.com/anahataresort/" target="blank"><i class="ti-facebook"></i></a>
                             </div>
                         </div>
                     </div>
@@ -65,7 +76,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="footer-bottom-inner">
-                            <p class="footer-bottom-copy-right">© Copyright 2023 by Anahata</p>
+                            <p class="footer-bottom-copy-right">© Copyright 2023 by Anahata Villas and Spa Resort</p>
                         </div>
                     </div>
                 </div>
