@@ -8,7 +8,13 @@ use Illuminate\Http\Request;
 class EventController extends Controller
 {
     public function index() {
-        $data = Event::getAll();
+        $data = [];
+
+        foreach(Event::getAll() as $event) {
+            if ($event['show']) {
+                array_push($data, $event);
+            }
+        }
 
         return view('events', compact('data'));
     }

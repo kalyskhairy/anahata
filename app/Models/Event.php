@@ -8,7 +8,7 @@ class Event extends Model
 {
     private static $events = [
         [
-            'image' => 'img/restaurant/restaurant-night.jpg',
+            'image' => 'img/mind-slim-program.jpg',
             'title' => '4 (four) Days Exclusive Program, Getting Slimmer & Younger with MindSlim Program',
             'quote' => '4 DAYS EXCLUSIVE PROGRAM
             Bersiaplah Anda akan merasakan pengalaman yang luar biasa dalam hidup Anda di 4 Days Exclusive Program! Program ini diadakan hanya 2 kali dalam setahun di Ubud, Bali.',
@@ -31,10 +31,11 @@ class Event extends Model
             </ul>
             <p>Selama 4 Hari 3 Malam banyak hal yang Anda alami dan rasakan, nuansa keindahan alam Bali, tempat yang sangat ideal dipilih untuh mendapatkan pengalaman yang luar biasa.</p>
             <p>Ingin mengetahui jadwal dan informasi lebih lanjut mengenai 4 Days Exclusive Program? Hubungi (021) 3333-3168/ 3333-3169 atau email ke info@mindslimprogram.com.</p>',
-            'category' => 'Training and Meeting'
+            'category' => 'Training and Meeting',
+            'show'     => 1
         ],
         [
-            'image' => 'img/restaurant/restaurant-night.jpg',
+            'image' => 'img/yoga-retreat.jpg',
             'title' => "BALI NEW YEAR'S EVE YOGA RETREAT",
             'quote' => "Join us for a wonderful week of Yoga and healing in a peaceful and serene Balinese environment. This retreat is designed for guests to de-stress and rejuvenate your body, mind and soul. Feel yourself become physically stronger, increase flexibility and",
             'slug'  => 'bali-new-year-eve-yoga-retreat',
@@ -47,7 +48,8 @@ class Event extends Model
             <br />
             <p><span style="font-size:11pt"><span style="font-family:Arial"><span style="color:#000000"><strong>Ubud</strong></span></span></span><span style="font-size:11pt"><span style="font-family:Arial"><span style="color:#000000"> is famous as the artistic and cultural heart of Bali. There are many art museums to see traditional and modern paintings. The Ubud people are warm and friendly and many are painters, dancers, musicians and carvers. The cool weather in the hill is perfect for nature walks, or visit the monkey forest or the colourful markets with their bright and typically Balinese crafted stalls.The retreat is surrounded by beautiful rice paddies in a quiet and peaceful environment yet very close to shops, fabulous restaurants, affordable day spas, galleries and temples to visit in your free time. Do as little or as much as you like!</span></span></span></p>
             ',
-            'category' => 'Training and Meeting'
+            'category' => 'Training and Meeting',
+            'show'     => 1
         ],
         [
             'image' => 'img/restaurant/restaurant_1.jpg',
@@ -75,7 +77,8 @@ class Event extends Model
             <br />
             <p><span style="font-size:11pt"><span style="font-family:Arial"><span style="color:#000000">Berhenti sejenak. Kembali ke dalam. Saat kita menghuni tubuh kita dengan kesadaran penuh, mengamati batin kita secara utuh, maka kita kembali ke pusat roda. Kita kembali mencicipi kepolosan batin seorang bayi yang senantiasa hidup alamiah dan selaras. Kita pun berkesempatan untuk memaknai hidup dalam kejernihan dan kebijaksanaan yang baru. Bening. Geming. Dan hening.</span></span></span></p>
             ',
-            'category' => 'Sport Event'
+            'category' => 'Sport Event',
+            'show'     => 0
         ],
         [
             'image' => 'img/restaurant/restaurant_2.jpg',
@@ -90,10 +93,11 @@ class Event extends Model
             <p><span style="font-size:11pt"><span style="font-family:Arial"><span style="color:#000000">SACRED WELLNESS TEAM</span></span></span></p>
             <a href="https://www.facebook.com/pages/Sacred-Wellness-Institute/121464638045848">https://www.facebook.com/pages/Sacred-Wellness-Institute/121464638045848</a>
             ',
-            'category' => 'Training and Meeting'
+            'category' => 'Training and Meeting',
+            'show'     => 0
         ],
         [
-            'image' => 'img/restaurant/restaurant_1.jpg',
+            'image' => 'img/ghb.jpg',
             'title' => 'Program Meditasi Intensif "Geming, Hening, Bening"',
             'quote' => "",
             'slug'  => 'program-meditasi-intensif',
@@ -115,7 +119,8 @@ class Event extends Model
             <p><span style="font-size:11pt"><span style="font-family:Arial"><span style="color:#000000">Dibimbing oleh Reza Gunawan, praktisi penyembuhan holistik yang telah menekuni dunia penyembuhan selama lebih dari dua dekade, program ini akan berlangsung intensif selama 4 hari 3 malam di Ubud, Bali. Suasana alam yang damai dan tenteram, menu makanan vegetarian yang lezat dan sehat, serta didukung oleh staf yang berpengalaman, akan memastikan para peserta dapat menjalankan program seoptimal mungkin dengan rasa aman dan nyaman.</span></span></span></p>
             <p><span style="font-size:11pt"><span style="font-family:Arial"><span style="color:#000000">Berhenti sejenak. Kembali ke dalam. Saat kita menghuni tubuh kita dengan kesadaran penuh, mengamati batin kita secara utuh, maka kita kembali ke pusat roda. Kita kembali mencicipi kepolosan batin seorang bayi yang senantiasa hidup alamiah dan selaras. Kita pun berkesempatan untuk memaknai hidup dalam kejernihan dan kebijaksanaan yang baru. Bening. Geming. Dan hening.</span></span></span></p>
             ',
-            'category' => 'Sport Event'
+            'category' => 'Sport Event',
+            'show'     => 1
         ],
     ];
 

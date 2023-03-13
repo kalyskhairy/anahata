@@ -406,7 +406,7 @@
             <div class="row">
                 <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
                     <div class="img left">
-                        <a href=""><img src="img/river.jpeg" alt=""></a>
+                        <a href=""><img src="img/river-medit.jpg" alt=""></a>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 bg-cream valign animate-box" data-animate-effect="fadeInRight">
@@ -435,7 +435,7 @@
                 </div>
                 <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
                     <div class="img">
-                        <a href=""><img src="img/floating-food-2.jpg" alt=""></a>
+                        <a href=""><img src="img/floating-breakfast.jpg" alt=""></a>
                     </div>
                 </div>
             </div>
