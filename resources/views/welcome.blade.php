@@ -454,13 +454,19 @@
                 <div class="col-md-12">
                     <div class="owl-carousel owl-theme">
                         @foreach($articles as $article)
-                        <div class="item">
+                        <!-- <div class="item">
                             <div class="position-re o-hidden"> <img src="{{ $article['image'] }}" alt="" style="height:270px;">
                             </div>
                             <div class="con"> 
                                 <span class="category">
                                     <a href="{{ url('/article-detail?title=' . $article['slug']) }}" style="font-size:10px;">{{$article['slug']}}</a>
                                 </span>
+                                <h5><a href="{{ url('/article-detail?title=' . $article['slug']) }}">{{$article['title']}}</a></h5>
+                            </div>
+                        </div> -->
+                        <div class="card item" style="width: 18rem;">
+                            <img class="card-img-top" src="{{ $article['image'] }}" alt="{{ $article['title'] }}" style="height:270px;">
+                            <div class="card-body">
                                 <h5><a href="{{ url('/article-detail?title=' . $article['slug']) }}">{{$article['title']}}</a></h5>
                             </div>
                         </div>
