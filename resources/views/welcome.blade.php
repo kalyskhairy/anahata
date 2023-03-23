@@ -295,26 +295,6 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!-- <div class="item">
-                                    <span class="quote"><img src="img/quot.png" alt=""></span>
-                                    <p>Hotel dapibus asue metus the nec feusiate eraten miss hendreri net ve ante the lemon sanleo nectan feugiat erat hendrerit necuis ve ante otel inilla duiman at finibus viverra neca the sene on satien the miss drana inc fermen norttito sit space, mus nellentesque habitan.</p>
-                                    <div class="info">
-                                        <div class="author-img"> <img src="img/team/1.jpg" alt=""> </div>
-                                        <div class="cont"> <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
-                                            <h6>Nolan White</h6> <span>Guest review</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <span class="quote"><img src="img/quot.png" alt=""></span>
-                                    <p>Hotel dapibus asue metus the nec feusiate eraten miss hendreri net ve ante the lemon sanleo nectan feugiat erat hendrerit necuis ve ante otel inilla duiman at finibus viverra neca the sene on satien the miss drana inc fermen norttito sit space, mus nellentesque habitan.</p>
-                                    <div class="info">
-                                        <div class="author-img"> <img src="img/team/5.jpg" alt=""> </div>
-                                        <div class="cont"> <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
-                                            <h6>Olivia Martin</h6> <span>Guest review</span>
-                                        </div>
-                                    </div>
-                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -341,7 +321,6 @@
                             <p>
                                 The Restaurant & Bar is Open for breakfast, lunch and dinner. The menu caters for international guests, offering traditional Balinese, Asian and Western cuisines as well as vegetarian food.
                             </p>
-                            <!-- <div class="butn-dark"> <a href=""><span>Learn More</span></a> </div> -->
                         </div>
                     </div>
                 </div>
@@ -355,7 +334,6 @@
                             </div>
                             <h4>Spa Center</h4>
                             <p>Located half way down to Petanu River, our spa offers a complete range of massages and treatments. You can request your spa and treatment to be done in your villas or our Tree Spa House</p>
-                            <!-- <div class="butn-dark"> <a href=""><span>Learn More</span></a> </div> -->
                         </div>
                     </div>
                 </div>
@@ -379,7 +357,6 @@
                             </div>
                             <h4>Fitness Center</h4>
                             <p>A mini gym for treadmill, cycling and weight lifting.</p>
-                            <!-- <div class="butn-dark"> <a href=""><span>Learn More</span></a> </div> -->
                         </div>
                     </div>
                 </div>
@@ -393,7 +370,6 @@
                             </div>
                             <h4>Swimming Pool</h4>
                             <p>Our main swimming pool is overlooking the riverbank complete with changing room, pool bar and Jacuzzi.</p>
-                            <!-- <div class="butn-dark"> <a href=""><span>Learn More</span></a> </div> -->
                         </div>
                     </div>
                 </div>
@@ -454,16 +430,6 @@
                 <div class="col-md-12">
                     <div class="owl-carousel owl-theme">
                         @foreach($articles as $article)
-                        <!-- <div class="item">
-                            <div class="position-re o-hidden"> <img src="{{ $article['image'] }}" alt="" style="height:270px;">
-                            </div>
-                            <div class="con"> 
-                                <span class="category">
-                                    <a href="{{ url('/article-detail?title=' . $article['slug']) }}" style="font-size:10px;">{{$article['slug']}}</a>
-                                </span>
-                                <h5><a href="{{ url('/article-detail?title=' . $article['slug']) }}">{{$article['title']}}</a></h5>
-                            </div>
-                        </div> -->
                         <div class="card item" style="width: 18rem;">
                             <img class="card-img-top" src="{{ $article['image'] }}" alt="{{ $article['title'] }}" style="height:270px;">
                             <div class="card-body">
