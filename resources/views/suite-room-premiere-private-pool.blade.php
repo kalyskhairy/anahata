@@ -9,7 +9,7 @@
             <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/suite-room-premiere-private-pool/IMG_3.jpg"></div>
             <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/suite-room-premiere-private-pool/IMG_4.jpg"></div>
             <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/suite-room-premiere-private-pool/IMG_5.jpg"></div>
-            <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/suite-room-premiere-private-pool/IMG_6.jpg"></div>
+            <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/suite-room-premiere-private-pool/IMG_12.jpg"></div>
             <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/suite-room-premiere-private-pool/IMG_7.jpg"></div>
             <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/suite-room-premiere-private-pool/IMG_8.jpg"></div>
             <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/suite-room-premiere-private-pool/IMG_9.jpg"></div>
