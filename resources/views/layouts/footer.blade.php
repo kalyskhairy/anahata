@@ -23,6 +23,16 @@
                             <img src="img/clients/agoda.svg" alt="" style="height:50px;">
                         </a>
                     </div>
+                    <div class="clients-logo">
+                        <a href="https://www.pegipegi.com/hotel/bali/anahata_villas_spa_resort_bali_910722" target="blank">
+                            <img src="img/clients/pegipegi.svg" alt="" style="height:50px;">
+                        </a>
+                    </div>
+                    <div class="clients-logo">
+                        <a href="https://www.expedia.co.id/Ubud-Hotels-Anahata-Villas-Spa-Resort.h8694594.Hotel-Information?chkin=2023-04-07&chkout=2023-04-08&x_pwa=1&rfrr=HSR&pwa_ts=1679633484140&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5pZC9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=12094&destination=Ubud%2C+Bali%2C+Indonesia&destType=MARKET&selected=8694594&latLong=-8.507007%2C115.261871&sort=RECOMMENDED&top_dp=1584711&top_cur=IDR&userIntent=&selectedRoomType=200815568&selectedRatePlan=389054946" target="blank">
+                            <img src="img/clients/expedia.svg" alt="" style="height:50px;">
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
